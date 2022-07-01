@@ -6,8 +6,8 @@
  * main - Entry point of code
  *
  * Description: Gets the last number and checks if is postive zero of negative
- *  
- *  Return: Always 0
+ *
+ * Return: Always 0
  */
 
 int main(void)
