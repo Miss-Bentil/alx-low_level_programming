@@ -27,7 +27,7 @@ int main(void)
 				{
 					putchar(number);
 					putchar(number_1);
-					putchar(number_2);				
+					putchar(number_2);
 					if (number < 55)
 					{
 						putchar(',');
