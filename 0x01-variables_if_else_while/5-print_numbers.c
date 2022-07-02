@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -10,6 +11,7 @@
 int main(void)
 {
 	int number;
+
 	number = 0;
 	while (number <= 9)
 	{
