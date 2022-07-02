@@ -10,11 +10,10 @@
 
 int main(void)
 {
-
 	char letter;
 
 	letter = 'a';
-	while (letter != '{')
+       	while (letter != '{')
 	{
 		putchar (letter);
 		letter++;
@@ -26,5 +25,5 @@ int main(void)
 		letter++;
 	}
 	putchar('\n');
-	return (0)
+	return (0);
 }
