@@ -21,7 +21,3 @@ void print_spaces(int n);
 void print_zero(void);
 
 #endif
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
